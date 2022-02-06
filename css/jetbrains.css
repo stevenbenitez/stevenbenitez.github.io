@@ -10,7 +10,7 @@ code.hljs {
 
 .hljs {
     background: #282828;
-    color: #BDBDBD;
+    color: #ffffff;
 }
 
 .hljs-keyword, .hljs-type {
@@ -25,7 +25,11 @@ code.hljs {
     color: #C191FF;
 }
 
-.hljs-attr, .hljs-attribute, .hljs-literal, .hljs-operator, .hljs-selector-attr, .hljs-selector-class, .hljs-selector-id, .hljs-variable {
+.hljs-attr {
+    color: #85C46C;
+}
+
+.hljs-attribute, .hljs-literal, .hljs-operator, .hljs-selector-attr, .hljs-selector-class, .hljs-selector-id, .hljs-variable {
     color: #6C95EB;
 }
 
@@ -49,7 +53,11 @@ code.hljs {
     color: #85C46C;
 }
 
-.hljs-name, .hljs-quote, .hljs-selector-pseudo, .hljs-selector-tag {
+.hljs-name {
+    color: #C191FF;
+}
+
+.hljs-quote, .hljs-selector-pseudo, .hljs-selector-tag {
     color: #22863a;
 }
 
