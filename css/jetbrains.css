@@ -10,10 +10,10 @@ code.hljs {
 
 .hljs {
     background: #282828;
-    color: #BDBDBD;
+    color: #ffffff;
 }
 
-.hljs-doctag, .hljs-keyword, .hljs-template-tag, .hljs-template-variable, .hljs-type, .hljs-variable.language_ {
+.hljs-doctag, .hljs-template-tag, .hljs-template-variable, .hljs-variable.language_ {
     color: #487D34;
 }
 
